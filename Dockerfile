@@ -6,7 +6,7 @@ WORKDIR /app
 
 ENV HOST=localhost 
 
-ENV PORT=5433
+ENV PORT=5432
 
 ENV USER=root 
 
