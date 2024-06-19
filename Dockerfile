@@ -10,4 +10,4 @@ ENV USER=root PASSWORD=root DBNAME=root
 
 COPY ./main.exe main
 
-ENTRYPOINT [ "./main" ]
+ENTRYPOINT [ "./main.exe" ]
